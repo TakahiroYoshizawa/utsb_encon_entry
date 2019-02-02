@@ -21,7 +21,22 @@ UTSB団内アンコン／エントリー担当のためのリポジトリ（最�
 
 
 ## このフォルダについて
-
+utsb_encon_entry  
+  ┠ README.md (このファイル)  
+  ┠ PROCEDURE.md #お仕事手順書 (これ超重要)  
+  ┣ player_entry  
+  ┃   ┠ README.md  
+  ┃   ┗ player_entry.txt    
+  ┃  
+  ┣ band_entry  
+  ┃   ┠ README.md  
+  ┃   ┗ band_entry.txt  
+  ┃  
+  ┗ player_add  
+      ┠ README.md  
+      ┠ player_add_by_xlsx  
+      ┠ player_add_by_form  
+      ┗ player_add_by_myself  
 
 # このシステムについて
 ## 目的
