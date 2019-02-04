@@ -60,10 +60,10 @@ utsb_encon_entry
 ├── band_entry
 │   ├── README.md
 │   └── band_entry.txt 
-└── player_add
+└── add_player
     ├── README.md
-    ├── player_add_by_xlsx.txt
-    ├── player_add_by_form.txt
-    └── player_add_by_myself.txt 
+    ├── add_by_xlsx.txt
+    ├── add_by_form.txt
+    └── add_by_myself.txt 
 
 ```
